@@ -32,12 +32,11 @@ var eventMessagesButtonWhatsapp = function() {
     var arrayMessages = ["QR will surprise you 🤳🎁", "@QR_Surprises", "Follow us!", "#ComingSoon 🔜"];
     var numMessages = arrayMessages.length;
     var cont = 0;
-    var iconWhatsapp = '<i class="fa fa-instagram withoutShadow" aria-hidden="true"></i> ';
 
     function changeMessage() {
         var btn = $('#btnSendWhatsapp > span');
         btn.hide('fast', function() {
-            btn.html(iconWhatsapp + ' ' + arrayMessages[cont]).show('slow');
+            btn.html(arrayMessages[cont]).show('slow');
         });
         if (cont == (numMessages - 1)) {
             cont = 0;
