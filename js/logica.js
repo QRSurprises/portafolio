@@ -29,7 +29,7 @@ var isDebug = function() {
 }
 
 var eventMessagesButtonWhatsapp = function() {
-    var arrayMessages = ["QR will surprise you 🤳🎁", "@QR_Surprises", "Follow us!", "#ComingSoon 🔜"];
+    var arrayMessages = ["&nbsp;QR will surprise you 🤳🎁", "&nbsp;@QR_Surprises", "&nbsp;Follow us!", "&nbsp;#ComingSoon 🔜"];
     var numMessages = arrayMessages.length;
     var cont = 0;
 
