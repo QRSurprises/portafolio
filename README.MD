@@ -1,11 +1,12 @@
-# SITIO WEB PERSONAL 2.0
+# QR_SURPRISES 🟡
 
-Sitio web personal de [@Simonba97](https://instagram.com/simonba97) para una versión mejorada del anterior sitio web... Cabe resaltar que aún no está finalizado al 100%, cualquier detalle o bug encontrado se estará solucionando en los próximos días.
+Web site of [@QR_Surprises](https://instagram.com/QR_Surprises) this is a demo initial ⚠️.
 
-Realizado por [Simón Bustamante Alzate](https://instagram.com/simonba97)
+By [Simón Bustamante Alzate](https://instagram.com/simonba97)
 
 ## CRÉDITOS
 - [Simón Bustamante Alzate](https://instagram.com/simonba97)
+- [QR Surprises®](https://instagram.com/simonba97)
 
 ## LICENCIA 
 
